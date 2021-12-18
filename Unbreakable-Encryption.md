@@ -22,7 +22,8 @@ Now to know the plaintext 2,which contains the flag, using the same website abov
 >![image](https://user-images.githubusercontent.com/65474495/146638795-2ad60aed-96ce-4a17-9631-0f1823c55519.png)
 >*Note: We have to add "00" to the end of ciphertext2 as the ciphertext and the keypad has to stay the same length.*
 
-The result is in
+The result is in hex so I use this [website](https://www.rapidtables.com/convert/number/hex-to-ascii.html) to convert from hex to ASCII to get the flag
+>![image](https://user-images.githubusercontent.com/65474495/146640421-810e4d18-2872-45b9-afc3-152084f499ec.png)
 
 The flag is:
 > MetaCTF{you're_better_than_steve!}
