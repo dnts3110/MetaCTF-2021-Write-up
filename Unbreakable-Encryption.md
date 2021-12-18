@@ -6,8 +6,13 @@
 ## Solution
 This question is about one time pad, the basic idea of a one time pad is:
 >text XOR pad = ciphertext
-ciphertext XOR pad = text
-ciphertext XOR text = pad
+>ciphertext XOR pad = text
+>ciphertext XOR text = pad
+*Note: XOR is its own inverse.
+
+
+
+
 
 I used [this website](https://hashes.com/en/tools/hash_identifier) to identify the possible hashing/encoding type of that encrypted password.
 > ![image](https://user-images.githubusercontent.com/65474495/146637718-4c5b4f34-e9ef-472f-98a3-3deb1a4e2b27.png)
