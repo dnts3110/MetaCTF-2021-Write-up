@@ -6,9 +6,9 @@
 ## Solution
 This question is about one time pad, the basic idea of a one time pad is:
 >text XOR pad = ciphertext
->
+
 >ciphertext XOR pad = text
->
+
 >ciphertext XOR text = pad
 
 *Note: XOR is its own inverse.
