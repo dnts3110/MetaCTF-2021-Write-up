@@ -1,3 +1,11 @@
-<img width="338" alt="Screen Shot 2021-12-04 at 11 13 46 pm" src="https://user-images.githubusercontent.com/65474495/144708993-de5aa037-dece-4b30-830a-6e9233eda176.png">
-I examine these files
-and brute force the user name
+# I Just Wanna Run
+
+## Question
+![image](https://user-images.githubusercontent.com/65474495/146674986-7a9a4872-03ee-45c6-bade-e262daae51aa.png)
+
+## Solution
+I examined these files and then brute forced the user name for the flag
+> ![image](https://user-images.githubusercontent.com/65474495/146675045-2cf3b1cc-cf4b-4e78-8ea9-140d3d6dff58.png)
+
+The flag is:
+> METAL\timq-admin
