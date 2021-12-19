@@ -1,1 +1,11 @@
-<img width="999" alt="Screen Shot 2021-12-04 at 11 12 38 pm" src="https://user-images.githubusercontent.com/65474495/144708962-6cb0179f-ae5a-46fc-a8c3-a407359cfb08.png">
+# Still Believe in Magic?
+
+## Question
+![image](https://user-images.githubusercontent.com/65474495/146674838-ebf24b4e-577b-43ec-bf62-26d63aee876f.png)
+
+## Solution
+I used these commands in my terminal to extract that compressed file.
+> ![image](https://user-images.githubusercontent.com/65474495/146674870-76889859-0573-4392-9fc0-367662ef81bc.png)
+
+The flag is:
+> MetaCTF{was_it_a_magic_trick_or_magic_bytes?}
