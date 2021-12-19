@@ -1,1 +1,12 @@
-<img width="448" alt="Screen Shot 2021-12-04 at 11 08 09 pm" src="https://user-images.githubusercontent.com/65474495/144708826-37316d53-b8d1-4d98-a12f-a318edd0596a.png">
+# Magic in the Hex
+
+## Question
+![image](https://user-images.githubusercontent.com/65474495/146674005-2bddb0ad-b5ab-485e-bd66-96cf0c345cfe.png)
+
+## Solution
+I googled to find a [website](https://www.garykessler.net/library/file_sigs.html) that listed file signature, then I searched for VMDK.
+Here is the file signature for a VMDK file
+> ![image](https://user-images.githubusercontent.com/65474495/146674178-af2094eb-fd14-4fa9-8914-2b0120a5a252.png)
+
+I converted this file signature in hex to ASCII, and got the flag:
+> MetaCTF{KDMV}
