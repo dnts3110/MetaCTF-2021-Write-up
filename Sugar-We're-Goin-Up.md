@@ -1,1 +1,9 @@
-<img width="465" alt="Screen Shot 2021-12-04 at 11 10 38 pm" src="https://user-images.githubusercontent.com/65474495/144708906-ed285ab2-21ba-4266-bcbf-b7fe3913903a.png">
+# Sugar We're Goin Up
+
+## Question
+![image](https://user-images.githubusercontent.com/65474495/146673697-c2b4a3e0-58b7-48c9-a408-3cff63b1ae67.png)
+
+
+## Solution
+I googled and quickly found the flag is:
+> MetaCTF{CVE-2021-22205}
